@@ -1,8 +1,8 @@
 # DS 400 Bayesian Statistics – Final Project Proposal
  
-**Name:**
+**Name:Ayven Magday**
  
-**Date:**
+**Date: 11/19/2026**
  
 ---
  
@@ -17,9 +17,11 @@ Download this file and add it to your DS400 Repository, then edit right in the g
 What do you want to find out? Phrase it as a question. Mention the place and time period if they are relevant.
  
 <!-- Write your answer below this line -->
- 
- 
- 
+ (I don't fully know yet)
+ Does the amount of Home Runs a batter hits contributes more to a winning game compared to Singles/Doubles/Triples?
+ Are sacrifice bunts or sacrifice flies better to do when both force the batter to get an out?
+How often are Steals successful in advancing to the next base from each position? (1 -> 2, 2 -> 3, 3 -> H)
+
  
  
 ---
